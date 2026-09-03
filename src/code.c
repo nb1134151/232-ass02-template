@@ -209,7 +209,7 @@ int challenge05()
         x += 5;
     }
 
-    return 40;
+    return 60;
 }
 
 
