@@ -166,7 +166,7 @@ int challenge04()
 
     value += 5;
 
-    return 32;
+    return 30;
 }
 
 
@@ -209,7 +209,7 @@ int challenge05()
         x += 5;
     }
 
-    return 0;
+    return 40;
 }
 
 
