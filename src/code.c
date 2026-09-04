@@ -248,7 +248,7 @@ int challenge06()
     int result1 = a / b;
     double result2 = (double)(a) / b;
 
-    return 105;
+    return 38.5;
 }
 
 
