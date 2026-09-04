@@ -486,9 +486,9 @@ int challenge11()
 {
     int x = 7;
 
-    // int result = add(x, 5);
+    int result = add(x, 5);
 
-    return 0;
+    return 12;
 }
 
 
