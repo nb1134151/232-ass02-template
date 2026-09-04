@@ -292,10 +292,10 @@ int challenge07()
 {
     int x = 2;
 
-    // int *y = &x;
-    // *y = 4;
+    int *y = &x;
+    *y = 4;
 
-    return 0;
+    return 4;
 }
 
 
